@@ -1,4 +1,5 @@
 This addon is under the GPLv0 license © Andrei Cristian Petcu.
+Changes made under the GPLv3 license © Manuel Pedrero.
 
-Icons by Mozilla
+Icons by Mozilla under MPL 2.0 license: http://mozilla.org/MPL/2.0/
 http://design.firefox.com/icons/viewer/

@@ -1,16 +1,11 @@
 {
-    "applications": {
-        "gecko": {
-            "id": "{7afe2ae8-0244-48d6-8007-6aadad9a6090}"
-        }
-    },
     "background": {
         "scripts": [
             "scripts/background.js"
         ]
     },
-    "description": "Adds a refresh button in the URL bar. Icon is CC-BY-SA 4.0 by Twitter user trumpikas.",
-    "homepage_url": "https://github.com/andreicristianpetcu/refresh_in_url_bar",
+    "description": "Add a reload button in the URL bar. Forked from addon by Andrei Petcu to add stop button and use original Mozilla icons.",
+    "homepage_url": "https://github.com/mpedrero/refresh_in_url_bar",
     "icons": {
         "128": "images/refresh.svg",
         "16": "images/refresh.svg",
@@ -22,7 +17,7 @@
         "images/cancel.svg"
       ],
     "manifest_version": 2,
-    "name": "Australis-like refresh in URL bar",
+    "name": "Reload page in URL bar",
     "page_action": {
         "default_icon": "images/refresh.svg"
     },
